@@ -19,7 +19,7 @@ h1 {
 .container {
   position: relative;
   background-color: #23384d;
-  height: 150px;
+  min-height: 150px;
 
 }
 
