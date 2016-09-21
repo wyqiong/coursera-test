@@ -20,7 +20,6 @@ h1 {
   position: relative;
   background-color: #23384d;
   min-height: 150px;
-
 }
 
 section {
@@ -28,9 +27,7 @@ section {
   color: #eacf1f;
 
 }
-div{
-  /*margin: 5px;*/
-}
+
 
 #p1 {
   background-color: #eacf1f;
@@ -78,10 +75,11 @@ div{
   padding: 10px;
 }
 
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
-  margin: 5px; 
+  
 }
 
 /********** Large devices only **********/
