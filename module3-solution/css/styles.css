@@ -7,9 +7,10 @@
 .navbar-brand {
   position: absolute;
   left:10px;
+  margin-left: -15px;
 }
-.navbar-toggle{ 
- }
+
+
 .navbar-brand h1 { /* Restaurant name */
 
   font-size: 1.5em;
@@ -74,6 +75,7 @@
 .container-fluid {
   padding-left: 5px;
   padding-right: 5px;
+
 }
 .row div {
   margin-left: auto;
@@ -111,9 +113,6 @@
   }
   .col-md-4 {
     width: 33%;
-  }
-  .navbar-brand h1 {
-
   }
 
 }
